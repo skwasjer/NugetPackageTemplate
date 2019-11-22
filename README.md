@@ -4,7 +4,6 @@ DotNet Core nuget project template.
 
 Replace variables in all files:
 - `<SolutionName>`
-- `<Author>`
 - `<ProjectName>`
 
 Rename solution/project files: `NugetPackageTemplate`
