@@ -11,7 +11,7 @@
   <PropertyGroup>
     <Authors>Martijn Bodeman</Authors>
     <Company></Company>
-    <Copyright>Copyright © 2019</Copyright>
+    <Copyright>Copyright © 2021</Copyright>
     <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
     <RepositoryUrl>https://github.com/skwasjer/NugetPackageTemplate</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
