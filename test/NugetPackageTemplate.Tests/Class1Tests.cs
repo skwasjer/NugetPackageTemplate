@@ -1,13 +1,12 @@
 ﻿using Xunit;
 
-namespace NugetPackageTemplate
+namespace NugetPackageTemplate;
+
+public class Class1Tests
 {
-    public class Class1Tests
-	{
-        [Fact]
-        public void Test()
-        {
-            var obj = new Class1();
-        }
-	}
+    [Fact]
+    public void Test()
+    {
+        var obj = new Class1();
+    }
 }

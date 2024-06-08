@@ -1,6 +1,6 @@
 # NugetPackageTemplate
 
-DotNet Core nuget project template.
+.NET project template with NuGet/GitHub actions integration.
 
 Replace variables in all files:
 - `<SolutionName>`
