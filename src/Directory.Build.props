@@ -11,11 +11,15 @@
   <PropertyGroup>
     <Authors>Martijn Bodeman</Authors>
     <Company></Company>
-    <Copyright>Copyright © 2021</Copyright>
+    <Copyright>Copyright © 2024</Copyright>
     <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
     <RepositoryUrl>https://github.com/skwasjer/NugetPackageTemplate</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <PackageIcon>Icon64.png</PackageIcon>
+    <PackageReleaseNotes>Release notes are at https://github.com/skwasjer/NugetPackageTemplate/releases</PackageReleaseNotes>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    <AnalysisLevel>latest-All</AnalysisLevel>
   </PropertyGroup>
 
   <ItemGroup>

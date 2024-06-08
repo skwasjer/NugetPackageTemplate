@@ -24,7 +24,7 @@ indent_size = 2
 indent_style = space
 
 # Misc
-[*.{js,json,yml,yaml}]
+[*.{js,json,yaml,yml}]
 charset = utf-8
 indent_size = 2
 end_of_line = lf
@@ -148,6 +148,9 @@ csharp_style_deconstructed_variable_declaration = true:suggestion
 csharp_prefer_simple_default_expression = true:suggestion
 csharp_style_pattern_local_over_anonymous_function = true:suggestion
 csharp_style_inlined_variable_declaration = true:suggestion
+
+# File scoped ns
+csharp_style_namespace_declarations = file_scoped:error
 
 ###############################
 # C# Formatting Rules         #

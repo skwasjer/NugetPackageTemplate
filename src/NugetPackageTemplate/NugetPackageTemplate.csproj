@@ -1,12 +1,15 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFrameworks>netstandard1.2;netstandard1.6;netstandard2.0;net47;net45</TargetFrameworks>
-    <RootNamespace>NugetPackageTemplate</RootNamespace>
+    <TargetFrameworks>net8.0;netstandard2.1</TargetFrameworks>
 
     <Description></Description>
     <PackageProjectUrl>https://github.com/skwasjer/NugetPackageTemplate</PackageProjectUrl>
     <PackageTags></PackageTags>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="README.md" Pack="true" PackagePath="\" />
+  </ItemGroup>
 
 </Project>

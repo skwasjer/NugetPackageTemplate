@@ -1,0 +1,3 @@
+# NugetPackageTemplate
+
+Packaged readme.
